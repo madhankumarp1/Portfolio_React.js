@@ -1,0 +1,28 @@
+// FontAwesomeIcon add cmd
+// npm install @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons
+
+
+progressbar
+npm install react-progressbar react-progressbar-line styled-components
+
+
+
+Step 1: Ensure styled-components is Installed
+First, make sure that styled-components is installed in your project. If it's not installed, you can install it using npm:
+
+
+##npm install styled-components
+
+Step 2: Verify node_modules Directory
+Check if the styled-components package exists in your node_modules directory. Navigate to your project directory and verify:
+
+##cd /home/dckap/Documents/REACT/MADHAN
+##ls node_modules/styled-components
+
+If styled-components is not found, reinstall it:
+##npm install styled-components
+
+
+Step 1: Install react-countup
+First, you need to install the react-countup package:
+##npm install react-countup

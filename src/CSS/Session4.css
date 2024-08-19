@@ -1,0 +1,95 @@
+section.session_4 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  background: white;
+  align-items: center;
+}
+
+.portfolio-item {
+  width: 100%;
+  max-width: 300px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin: 10px;
+  padding: 20px;
+  text-align: left;
+}
+
+.portfolio-item-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.portfolio-item-title {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+
+.portfolio-item-description {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.portfolio-item-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: #ff6347;
+  font-weight: bold;
+}
+
+.arrow-icon {
+  margin-left: 5px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.portfolio-item-link:hover .arrow-icon {
+  transform: translateX(5px);
+}
+.port-head {
+  padding: 40px 20px;
+  background-color: #FFD4D0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.port-sub {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.port-h2 {
+  font-size: 2rem;
+  color: black;
+  margin-bottom: 10px;
+}
+
+.port-about {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.portfolio-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.portfolio-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

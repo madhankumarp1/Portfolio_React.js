@@ -1,0 +1,153 @@
+section.session_5 {   width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFFFFF;
+}
+section.session_5 {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.skil_main_div{
+    display: 'flex';
+     justify-content: space-between;
+}
+  
+h2.sklil_tital{
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #1F1F1F;
+  }
+  
+  p.skil_para {
+    font-size: 1rem;
+    margin-bottom: 30px;
+    color: #1F1F1F;
+    font-weight: lighter;
+  }
+  
+  .skill-bar-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .skill-bar-container span {
+    font-size: 0.9rem;
+  }
+  span.skil_text {
+    font-size: smaller;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: black;
+
+}
+
+span.skil_progress {
+    font-size: small;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: black;
+
+}
+  /* *{
+    color: black;
+  } */
+
+
+
+  /* src/PortfolioListPage.css */
+.port-head {
+  padding: 2rem;
+  background-color: #ffe3e3;
+}
+
+.port-sub {
+  margin-bottom: 2rem;
+}
+
+.port-about-head {
+  margin-bottom: 1rem;
+}
+
+.port-h2 {
+  font-size: 24px;
+  margin-bottom: 1rem;
+}
+
+.portfolio-about {
+  margin-bottom: 2rem;
+}
+
+.port-about {
+  font-size: 16px;
+}
+
+.portfolio-list {
+  position: relative;
+}
+
+.portfolio-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.portfolio-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.nav-button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.nav-button:hover {
+  background-color: #555;
+}
+/* src/PortfolioItem.css */
+.portfolio-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 1rem;
+}
+
+.portfolio-item-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.portfolio-item-title {
+  font-size: 18px;
+  margin: 1rem 0;
+}
+
+.portfolio-item-description {
+  font-size: 14px;
+  margin-bottom: 1rem;
+}
+
+.portfolio-item-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #333;
+}
+
+.portfolio-item-link span {
+  margin-right: 0.5rem;
+}
+
+.portfolio-item-link .arrow-icon {
+  font-size: 16px;
+}

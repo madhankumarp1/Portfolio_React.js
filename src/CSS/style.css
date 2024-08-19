@@ -1,0 +1,334 @@
+section.session_2 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    background: #FFD4D0;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.div_2_main_2 {
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div_word {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.div_word_1 {
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.user_btn {
+    width: 90%;
+    height: 3em;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 5em;
+}
+.div_image {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div_image_1 {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+/* image size */
+
+img.my_pic {
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* font style */
+
+/* h4 {
+    margin: 0;
+    font-size: small;
+    font-family: sans-serif;
+    font-weight: bolder;
+} */
+h3.software_developer_name {
+    margin: 0;
+    font-size: medium;
+    font-family: sans-serif;
+    color: #1F1F1F;
+    font-weight: 100;
+}
+h1.h1_1 {
+    margin: 0;
+    font-size: xxx-large;
+    font-family: sans-serif;
+    font-weight: bolder;
+    width: 9em;
+    color: #1F1F1F;
+}
+span.name_color {
+    color: #FC3314;
+}
+
+p.user_cont {
+    font-size: medium;
+    font-family: sans-serif;
+    color: #1F1F1F;
+    font-weight: 100;
+}
+
+
+
+/* button style */
+
+
+.user_Hire {
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+    border-radius: 0em;
+    border: none;
+    background: black;
+    color: white;
+    font-weight: bolder;
+}
+
+.user_Portfolio {
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+    border-radius: 0em;
+    border: solid 2px black;
+    background: white;
+    color: black;
+    font-weight: bolder;
+}
+
+
+
+
+/* section */
+
+
+section.session_3 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1F1F1F;
+    padding-bottom: 2em;
+    padding-top: 2em;
+}.se_main {
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3em;
+
+}
+
+.session_3main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.se_3_main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.project {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.left_pr_done {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}.center_exp {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+
+.about_me {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+}
+.div_about_p_cont {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p.about_p {
+    margin: 0;
+    font-size: medium;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: white;
+}   
+.count {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}.text {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3.co {
+    color: #FFD4D0;
+    font-family: monospace;
+    font-size: xxx-large;
+    margin: 0;
+
+}
+h3.co2 {
+    font-family: sans-serif;
+    font-size: x-large;
+    margin: 0;
+    color: white;
+}
+footer {
+    width: 100%;
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #1F1F1F;
+}
+.head_footer {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.left_footer ,.center_footer,.right_footer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottom_footer {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+
+
+h3.footer_home,h3.footer_sj,h3.footer_blog,p.footer_p {
+    font-size: x-large;
+    font-family: monospace;
+    font-weight: bolder;
+    color: white;
+}
+
+
+/* icon div */
+
+
+
+.icon_footer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 2em;
+}
+a.icon_color {
+    color: white;
+    font-size: x-large;
+}
+
+
+
+footer {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+section.session_3{
+    background-image: url("../assets/Background (4).png");
+       background-repeat: no-repeat;
+       background-position: center;
+    background-position-y: bottom;
+}
+
+
+/* section.session_2 {
+    background-image: url("../assets/Image (1).png");
+    background-repeat: no-repeat;
+    background-position: 90%;
+ background-position-y: bottom;
+ background-size: 500px 300px;
+} */
+ 
